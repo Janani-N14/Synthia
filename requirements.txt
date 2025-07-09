@@ -1,0 +1,13 @@
+langgraph
+langchain
+pandas
+ctgan
+python-dotenv
+google-generativeai
+serpapi
+kaggle
+requests
+langchain-community
+langchain-groq
+scikit-learn
+numpy
